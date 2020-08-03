@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/outlaylol/mee6-but-better)](https://repl.it/github/outlaylol/mee6-but-better)
+
 # mee6-but-better
 MEE6 but better :)
 
